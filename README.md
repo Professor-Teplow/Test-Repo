@@ -1,4 +1,7 @@
 # Test-Repo
 This is just a test repository. I'm using it to see how Git works.
 
-This branch is for showing how changes are made and recorded.
+
+I delete the line aobve this.
+
+I've added this line.
